@@ -1,6 +1,5 @@
 ## Hi there 👋
-<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-<img src="https://dcbadge.limes.pink/api/shield/307479091265798165">
+<img src="https://dcbadge.limes.pink/api/shield/307479091265798165"> <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
 
 I love doing programming and modding. 
 
